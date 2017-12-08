@@ -1,2 +1,2 @@
 # awesome-python3-webapp
-基于Python3学习自廖雪峰Python3教程
+鍩轰簬python3瀛︿範鑷粬闆嘲Python3鏁欑▼
